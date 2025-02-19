@@ -1,0 +1,5 @@
+ca0da0bd0
+MAPK1 | ARAF | PTPN11 | MAP2K1
+GRB2 | HGF | GAB1 | MET
+MAPK1 | GAB1 | MAP2K1 | PTPN11
+ans_count= 3

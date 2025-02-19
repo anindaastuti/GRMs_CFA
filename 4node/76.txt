@@ -1,0 +1,5 @@
+da0db0cb0
+PTPN11 | GRB2 | MET | GAB1
+CRK | GRB2 | MET | GAB1
+PIK3CA | GRB2 | MET | GAB1
+ans_count= 3
